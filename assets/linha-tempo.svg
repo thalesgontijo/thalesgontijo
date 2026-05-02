@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420">
+  <rect width="960" height="420" fill="#ffffff"/>
+  <line x1="120" y1="210" x2="840" y2="210" stroke="#1b263b" stroke-width="4"/>
+  <g fill="#1b263b">
+    <circle cx="160" cy="210" r="10"/>
+    <circle cx="300" cy="210" r="10"/>
+    <circle cx="440" cy="210" r="10"/>
+    <circle cx="580" cy="210" r="10"/>
+    <circle cx="720" cy="210" r="10"/>
+  </g>
+  <g font-family="Georgia, serif" fill="#202122" text-anchor="middle">
+    <text x="160" y="170" font-size="24">1936</text>
+    <text x="300" y="170" font-size="24">1937</text>
+    <text x="440" y="170" font-size="24">1945</text>
+    <text x="580" y="170" font-size="24">1950</text>
+    <text x="720" y="170" font-size="24">Hoje</text>
+    <text x="160" y="255" font-size="18">Artigo</text>
+    <text x="300" y="255" font-size="18">Universalidade</text>
+    <text x="440" y="255" font-size="18">Guerra</text>
+    <text x="580" y="255" font-size="18">Computadores</text>
+    <text x="720" y="255" font-size="18">Software</text>
+  </g>
+</svg>
